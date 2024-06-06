@@ -5,6 +5,6 @@ CFFI based alternative to py4cl2
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/digikar99/py4cl2-cffi.git |
-| commit  | 3d03145                                          |
+| commit  | b5fc76e                                          |
 | systems | py4cl2-cffi                                      |
 |---------+--------------------------------------------------|
