@@ -8,4 +8,4 @@ CFFI based alternative to py4cl2
 | commit  | 1e85e17                                          |
 | systems | py4cl2-cffi                                      |
 |---------+--------------------------------------------------|
- 
+  
